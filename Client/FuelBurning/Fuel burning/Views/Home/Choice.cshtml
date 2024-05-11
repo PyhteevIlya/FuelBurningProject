@@ -1,0 +1,81 @@
+﻿@model FuelViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Название варианта исходных данных газообразное</th>
+                <th>Описание</th>
+                <th>Действие</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                if (Model != null)
+                {
+                    foreach (var input in Model.DataJsonGasFuelModel)
+                    {
+                        <tr>
+                            <td>@input.Name</td>
+                            <td>@input.Description</td>
+                            <td>
+                                <a asp-action="Calc" asp-controller="Home" asp-route-id="@input.Id">Использовать</a>
+
+                                @if (!input.IsActive)
+                                {
+                                    <a asp-action="DataInputEdit" asp-controller="Home" asp-route-id="@input.Id">Редактировать</a>
+                                    <a asp-action="Remove" asp-controller="Home" asp-route-id="@input.Id">Удалить</a>
+                                }
+
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+    <a asp-action="DataInputAdd" asp-controller="Home">Добавить</a>
+</div>
+
+<div class="text-center">
+    <table class="table table-hover">
+        <thead>
+            <tr>
+                <th>Название варианта исходных данных твердое</th>
+                <th>Описание</th>
+                <th>Действие</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                if (Model != null)
+                {
+                    foreach (var input in Model.DataJsonLiquidFuelModel)
+                    {
+                        <tr>
+                            <td>@input.Name</td>
+                            <td>@input.Description</td>
+                            <td>
+                                <a asp-action="Calc" asp-controller="Liquid" asp-route-id="@input.Id">Использовать</a>
+
+                                @if (!input.IsActive)
+                                {
+                                    <a asp-action="DataInputEdit" asp-controller="Liquid" asp-route-id="@input.Id">Редактировать</a>
+                                    <a asp-action="Remove" asp-controller="Liquid" asp-route-id="@input.Id">Удалить</a>
+                                }
+
+                            </td>
+                        </tr>
+                    }
+                }
+            }
+        </tbody>
+    </table>
+    <a asp-action="DataInputAdd" asp-controller="Liquid">Добавить</a>
+</div>

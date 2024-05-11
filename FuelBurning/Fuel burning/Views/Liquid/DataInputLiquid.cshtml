@@ -1,0 +1,89 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    @using (Html.BeginForm("DataInputLiquid", "Liquid", FormMethod.Post))
+    {
+        <p>
+        </p>
+        <div class="container">
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Масса C,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.C", (double)(ViewBag.DataInputLiquid.C), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.H", (double)(ViewBag.DataInputLiquid.H), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса S,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.S", (double)(ViewBag.DataInputLiquid.S), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса N,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.N", (double)(ViewBag.DataInputLiquid.N), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса O,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.O", (double)(ViewBag.DataInputLiquid.O), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание влаги в топливе, масс. Wp,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.Wp", (double)(ViewBag.DataInputLiquid.Wp), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание золы в топливе, масс. Ap,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.Ap", (double)(ViewBag.DataInputLiquid.Ap), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                         <tr>
+                            <td>Температура подогрева воздуха перед горением, °С</td>
+                            <td>@Html.TextBox("DataInputLiquid.T_v", (double)(ViewBag.DataInputLiquid.T_v), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                         <tr>
+                            <td>Масса H2S,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.T_t", (double)(ViewBag.DataInputLiquid.T_t), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса N2,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.alfaG", (double)(ViewBag.DataInputLiquid.alfaG), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2O,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.M_недожог", (double)(ViewBag.DataInputLiquid.M_недожог), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                         <tr>
+                            <td>Масса g,%</td>
+                            <td>@Html.TextBox("DataInputLiquid.gg", (double)(ViewBag.DataInputLiquid.gg), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 20px">
+            <button type="submit" name="action" value="toSolver" style="font-size: 16px" class="btn btn-primary">Расчет</button>
+        </div>
+
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>

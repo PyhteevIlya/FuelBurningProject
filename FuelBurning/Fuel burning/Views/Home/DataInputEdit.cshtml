@@ -1,0 +1,134 @@
+﻿@model Fuel_burning.Models.DataGasFuelModel
+<!DOCTYPE html>
+<html>
+<head>
+@*    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>*@
+</head>
+<body>
+    @using (Html.BeginForm("DataInputEdit", "Liquid", FormMethod.Post))
+    {
+       
+        <div class="container">
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <div>
+                    <table>
+                        <tr>
+                            <td valign="top" width="210">
+                                @Html.TextArea("Name", (string)(Model.Name), htmlAttributes: new { type = "text", style = " width:200px; ", placeholder = "Введите название"})
+                            </td>
+                            <td>
+                                @Html.TextArea("Description", (string)(Model.Description), 5, 1, htmlAttributes: new { type = "text", style = " width:200px; height:30px", placeholder = "Введите описание"})
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Масса CO2,%</td>
+                            <td>
+@*                                <input type="text" name="DataInput.CO2" value="@Model.CO2" style=" width:100px; " />
+
+                                <input asp-for="CO2" name="DataInput.CO2" style=" width:100px;" />*@
+                                
+                                @Html.TextBox("CO2", Model.GasFuelModel.CO2, htmlAttributes: new { type = "text", style = " width:100px; " })
+                                </td>
+                        </tr>
+                        <tr>
+                            <td>Масса CO,%</td>
+                            <td>@Html.TextBox("CO", Model.GasFuelModel.CO, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2,%</td>
+                            <td>@Html.TextBox("H2", Model.GasFuelModel.H2, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса CH4,%</td>
+                            <td>@Html.TextBox("CH4", Model.GasFuelModel.CH4, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C2H6,%</td>
+                            <td>@Html.TextBox("C2H6", Model.GasFuelModel.C2H6, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C3H8,%</td>
+                            <td>@Html.TextBox("C3H8", Model.GasFuelModel.C3H8, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C4H10,%</td>
+                            <td>@Html.TextBox("C4H10", Model.GasFuelModel.C4H10, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C5H12,%</td>
+                            <td>@Html.TextBox("C5H12", Model.GasFuelModel.C5H12, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2S,%</td>
+                            <td>@Html.TextBox("H2S", Model.GasFuelModel.H2S, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса N2,%</td>
+                            <td>@Html.TextBox("N2", Model.GasFuelModel.N2, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2O,%</td>
+                            <td>@Html.TextBox("H2O", Model.GasFuelModel.H2O, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса g,%</td>
+                            <td>@Html.TextBox("G", Model.GasFuelModel.G, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса t_г, С</td>
+                            <td>@Html.TextBox("Tг", Model.GasFuelModel.Tг, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса t_в, С</td>
+                            <td>@Html.TextBox("Tв", Model.GasFuelModel.Tв, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса коэф.расхода воздуха на горение</td>
+                            <td>@Html.TextBox("Alfa", Model.GasFuelModel.Alfa, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 15px">
+            <button type="submit" style="font-size: 15px" class="btn btn-primary" asp-route-UserId="@Model.UserId">Подтвердить</button>
+        </div>
+
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>
+
+
+<script>
+    $(document).ready(function () {
+
+        const a = (e) => {
+            var charCode = (e.which) ? e.which : event.keyCode
+
+            if (String.fromCharCode(charCode).match(/[^0-9\,]/g))
+
+                return false;
+        }
+        $('input:not([name = "Name"])').keypress(a);
+
+    });
+</script>

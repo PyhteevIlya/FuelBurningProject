@@ -1,0 +1,127 @@
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.exe
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.deps.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.runtimeconfig.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\scopedcss\bundle\ReportMicroservice.styles.css
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.CopyComplete
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\refint\ReportMicroservice.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.genruntimeconfig.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ref\ReportMicroservice.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\appsettings.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.exe
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.deps.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.runtimeconfig.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.ReportMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.build.ReportMicroservice.props
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReportMicroservice.props
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReportMicroservice.props
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\scopedcss\bundle\ReportMicroservice.styles.css
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.CopyComplete
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\refint\ReportMicroservice.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ref\ReportMicroservice.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\appsettings.Development.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\appsettings.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.exe
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.deps.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.runtimeconfig.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\ReportMicroservice.pdb
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.AssemblyReference.cache
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.AssemblyInfoInputs.cache
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.AssemblyInfo.cs
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.csproj.CoreCompileInputs.cache
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.MvcApplicationPartsAssemblyInfo.cs
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.MvcApplicationPartsAssemblyInfo.cache
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.build.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.development.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.ReportMicroservice.Microsoft.AspNetCore.StaticWebAssets.props
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.build.ReportMicroservice.props
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ReportMicroservice.props
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ReportMicroservice.props
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\staticwebassets.pack.json
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\scopedcss\bundle\ReportMicroservice.styles.css
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMi.A8524D42.Up2Date
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\refint\ReportMicroservice.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.pdb
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ReportMicroservice.genruntimeconfig.cache
+J:\диплом тест json\FuelBurning\ReportMicroservice\obj\Debug\net6.0\ref\ReportMicroservice.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Humanizer.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Drawing.Common.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Security.Permissions.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\диплом тест json\FuelBurning\ReportMicroservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll

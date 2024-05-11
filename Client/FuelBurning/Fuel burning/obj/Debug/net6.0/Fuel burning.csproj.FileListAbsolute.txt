@@ -1,0 +1,80 @@
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\appsettings.Development.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\appsettings.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Fuel burning.staticwebassets.runtime.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Fuel burning.exe
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Fuel burning.deps.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Fuel burning.runtimeconfig.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Fuel burning.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Fuel burning.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Humanizer.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\Newtonsoft.Json.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Drawing.Common.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Runtime.Caching.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Security.Permissions.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\System.Windows.Extensions.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\bin\Debug\net6.0\MathLib.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.csproj.AssemblyReference.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.GeneratedMSBuildEditorConfig.editorconfig
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.AssemblyInfoInputs.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.AssemblyInfo.cs
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.csproj.CoreCompileInputs.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.MvcApplicationPartsAssemblyInfo.cs
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.MvcApplicationPartsAssemblyInfo.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.RazorAssemblyInfo.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.RazorAssemblyInfo.cs
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets\msbuild.Fuel burning.Microsoft.AspNetCore.StaticWebAssets.props
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets\msbuild.build.Fuel burning.props
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Fuel burning.props
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Fuel burning.props
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets.pack.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets.build.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\staticwebassets.development.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\scopedcss\bundle\Fuel burning.styles.css
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\scopedcss\projectbundle\Fuel burning.bundle.scp.css
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.csproj.CopyComplete
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\refint\Fuel burning.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\Fuel burning.genruntimeconfig.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\obj\Debug\net6.0\ref\Fuel burning.dll

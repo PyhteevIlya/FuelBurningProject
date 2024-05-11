@@ -1,0 +1,51 @@
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\bin\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\bin\Debug\net6.0\MathLib.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.CopyComplete
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\Domain\obj\Debug\net6.0\ref\Domain.dll
+J:\диплом тест json\FuelBurning\Domain\bin\Debug\net6.0\Domain.deps.json
+J:\диплом тест json\FuelBurning\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+J:\диплом тест json\FuelBurning\Domain\bin\Debug\net6.0\Domain.dll
+J:\диплом тест json\FuelBurning\Domain\bin\Debug\net6.0\Domain.pdb
+J:\диплом тест json\FuelBurning\Domain\bin\Debug\net6.0\MathLib.dll
+J:\диплом тест json\FuelBurning\Domain\bin\Debug\net6.0\MathLib.pdb
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.csproj.Up2Date
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.dll
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\refint\Domain.dll
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.pdb
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+J:\диплом тест json\FuelBurning\Domain\obj\Debug\net6.0\ref\Domain.dll

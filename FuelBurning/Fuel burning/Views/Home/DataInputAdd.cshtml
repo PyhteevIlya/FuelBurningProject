@@ -1,0 +1,133 @@
+﻿@model Fuel_burning.Models.GasFuelModel
+<!DOCTYPE html>
+<html>
+<head>
+@*    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>*@
+</head>
+<body>
+    @using (Html.BeginForm("DataInputAdd", "Home", FormMethod.Post))
+    {
+
+        <div class="container">
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <div>
+                    @if (ViewBag.DataInput != null && ViewBag.DataInput.IsActive)
+                    {
+                        ViewBag.DataInput.Name = null;
+                        ViewBag.DataInput.Description = null;
+                    }
+                    <table>
+                        <tr>
+                            <td valign="top" width="210">
+                                @Html.TextArea("DataInput.Name", (string)(ViewBag.DataInput.Name), htmlAttributes: new { type = "text", style = " width:200px; ", placeholder = "Введите название"})
+                            </td>
+                            <td>
+                                @Html.TextArea("DataInput.Description", (string)(ViewBag.DataInput.Description), 5, 1, htmlAttributes: new { type = "text", style = " width:200px; height:30px", placeholder = "Введите описание"})
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Масса CO2,%</td>
+                            <td>@Html.TextBox("DataInput.CO2", (double)(ViewBag.DataInput.CO2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса CO,%</td>
+                            <td>@Html.TextBox("DataInput.CO", (double)(ViewBag.DataInput.CO), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2,%</td>
+                            <td>@Html.TextBox("DataInput.H2", (double)(ViewBag.DataInput.H2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса CH4,%</td>
+                            <td>@Html.TextBox("DataInput.CH4", (double)(ViewBag.DataInput.CH4), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C2H6,%</td>
+                            <td>@Html.TextBox("DataInput.C2H6", (double)(ViewBag.DataInput.C2H6), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C3H8,%</td>
+                            <td>@Html.TextBox("DataInput.C3H8", (double)(ViewBag.DataInput.C3H8), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C4H10,%</td>
+                            <td>@Html.TextBox("DataInput.C4H10", (double)(ViewBag.DataInput.C4H10), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса C5H12,%</td>
+                            <td>@Html.TextBox("DataInput.C5H12", (double)(ViewBag.DataInput.C5H12), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2S,%</td>
+                            <td>@Html.TextBox("DataInput.H2S", (double)(ViewBag.DataInput.H2S), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса N2,%</td>
+                            <td>@Html.TextBox("DataInput.N2", (double)(ViewBag.DataInput.N2), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2O,%</td>
+                            <td>@Html.TextBox("DataInput.H2O", (double)(ViewBag.DataInput.H2O), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса g,%</td>
+                            <td>@Html.TextBox("DataInput.G", (double)(ViewBag.DataInput.G), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса t_г, С</td>
+                            <td>@Html.TextBox("DataInput.Tг", (double)(ViewBag.DataInput.Tг), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса t_в, С</td>
+                            <td>@Html.TextBox("DataInput.Tв", (double)(ViewBag.DataInput.Tв), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса коэф.расхода воздуха на горение</td>
+                            <td>@Html.TextBox("DataInput.Alfa", (double)(ViewBag.DataInput.Alfa), htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 15px">
+            <button type="submit" style="font-size: 15px" class="btn btn-primary">Сохранить</button>
+        </div>
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>
+
+
+<script>
+    $(document).ready(function () {
+
+        const a = (e) => {
+            var charCode = (e.which) ? e.which : event.keyCode
+
+            if (String.fromCharCode(charCode).match(/[^0-9\,]/g))
+
+                return false;
+        }
+        $('input:not([name = "DataInput.Name"])').keypress(a);
+
+    });
+</script>

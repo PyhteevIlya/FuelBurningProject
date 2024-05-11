@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Fuel_burning.Models.DataGasFuelModel>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h3>Список вариантов расчета газообразного топлива</h3>
+<div class="text-center" style="margin-bottom:20px">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Название варианта исходных данных</th>
+                    <th>Описание</th>
+                    <th>Действие</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if (Model != null)
+                    {
+                        foreach (var input in Model)
+                        {
+                            <tr>
+                                <td>@input.Name</td>
+                                <td>@input.Description</td>
+                                <td>
+                                    <a asp-action="Calc" asp-controller="Home" asp-route-id="@input.Id">Использовать</a>
+
+                                    @if (!input.IsActive)
+                                    {
+                                      <a asp-action="DataInputEdit" asp-controller="Home" asp-route-id="@input.Id">Редактировать</a>
+                                      <a asp-action="Remove" asp-controller="Home" asp-route-id="@input.Id">Удалить</a>
+                                    }
+
+                                </td>
+                            </tr>
+                        }
+                    }
+                }
+            </tbody>
+        </table>
+        <a asp-action="DataInputAdd" asp-controller="Home">Добавить</a>
+    </div>
+

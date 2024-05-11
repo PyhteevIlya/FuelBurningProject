@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\dataoutputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\dataoutputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\liquiddataoutputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\liquiddataoutputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuelburningapi\\controllers\\liquidcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|solutionrelative:fuelburningapi\\controllers\\liquidcontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuelburningapi\\controllers\\homecontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|solutionrelative:fuelburningapi\\controllers\\homecontroller2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\datagasfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\datagasfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuelburningapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|solutionrelative:fuelburningapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuelburningapi\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|solutionrelative:fuelburningapi\\models\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\liquidfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\liquidfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\gasfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\gasfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\models\\dataliquidfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\models\\dataliquidfuelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680BCB4D-807C-40F8-BFCC-8E9B59EF23EE}|MathLib\\MathLib.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\mathlib\\liquidfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680BCB4D-807C-40F8-BFCC-8E9B59EF23EE}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\liquidfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680BCB4D-807C-40F8-BFCC-8E9B59EF23EE}|MathLib\\MathLib.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\mathlib\\gasfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{680BCB4D-807C-40F8-BFCC-8E9B59EF23EE}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\gasfuel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{680BCB4D-807C-40F8-BFCC-8E9B59EF23EE}|MathLib\\MathLib.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\mathlib\\mathlib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{680BCB4D-807C-40F8-BFCC-8E9B59EF23EE}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\mathlib.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuelburningapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F24592-AB0E-474E-BA2D-6B9F0CDDE0F2}|FuelBurningApi\\FuelBurningApi.csproj|solutionrelative:fuelburningapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\views\\home\\choice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\views\\home\\choice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\views\\home\\raschet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\views\\home\\raschet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|j:\\c# vs\\fuelburningproject\\fuelburning\\fuel burning\\controllers\\liquidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112A775A-F1CF-4AA8-82C2-BB35BE584CAE}|Fuel burning\\FuelBurning.csproj|solutionrelative:fuel burning\\controllers\\liquidcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LiquidDataOutputModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\LiquidDataOutputModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\LiquidDataOutputModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\LiquidDataOutputModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\LiquidDataOutputModel.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAowDUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:58:16.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataOutputModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataOutputModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\DataOutputModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataOutputModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\DataOutputModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswDcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:09:15.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\ApplicationContext.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\ApplicationContext.cs",
+              "RelativeToolTip": "Fuel burning\\ApplicationContext.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwBcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:53:14.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataGasFuelModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataGasFuelModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\DataGasFuelModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataGasFuelModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\DataGasFuelModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:02:38.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LiquidController2.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Controllers\\LiquidController2.cs",
+              "RelativeDocumentMoniker": "FuelBurningApi\\Controllers\\LiquidController2.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Controllers\\LiquidController2.cs",
+              "RelativeToolTip": "FuelBurningApi\\Controllers\\LiquidController2.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAADwvyMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:54:55.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController2.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Controllers\\HomeController2.cs",
+              "RelativeDocumentMoniker": "FuelBurningApi\\Controllers\\HomeController2.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Controllers\\HomeController2.cs",
+              "RelativeToolTip": "FuelBurningApi\\Controllers\\HomeController2.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwCYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:53:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Program.cs",
+              "RelativeDocumentMoniker": "FuelBurningApi\\Program.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Program.cs",
+              "RelativeToolTip": "FuelBurningApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:05:54.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Models\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "FuelBurningApi\\Models\\AuthOptions.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Models\\AuthOptions.cs",
+              "RelativeToolTip": "FuelBurningApi\\Models\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T08:05:52.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\RegisterModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:47:20.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\LoginModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:47:23.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\UserModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\UserModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:56:10.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\RoleModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\RoleModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\RoleModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\RoleModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:55:58.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GasFuelModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\GasFuelModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\GasFuelModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\GasFuelModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\GasFuelModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:55:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "liquidFuel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\MathLib\\liquidFuel.cs",
+              "RelativeDocumentMoniker": "MathLib\\liquidFuel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\MathLib\\liquidFuel.cs",
+              "RelativeToolTip": "MathLib\\liquidFuel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYDAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:52:55.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LiquidFuelModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\LiquidFuelModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\LiquidFuelModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\LiquidFuelModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\LiquidFuelModel.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAA3wEcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:18:16.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MathLib",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\MathLib\\MathLib.csproj",
+              "RelativeDocumentMoniker": "MathLib\\MathLib.csproj",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\MathLib\\MathLib.csproj",
+              "RelativeToolTip": "MathLib\\MathLib.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-17T10:51:32.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataLiquidFuelModel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataLiquidFuelModel.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Models\\DataLiquidFuelModel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataLiquidFuelModel.cs",
+              "RelativeToolTip": "Fuel burning\\Models\\DataLiquidFuelModel.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:04:30.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GasFuel.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\MathLib\\GasFuel.cs",
+              "RelativeDocumentMoniker": "MathLib\\GasFuel.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\MathLib\\GasFuel.cs",
+              "RelativeToolTip": "MathLib\\GasFuel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPkDAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:29.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Controllers\\HomeController.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fuel burning\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAN8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:27:07.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Raschet.cshtml",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Views\\Home\\Raschet.cshtml",
+              "RelativeDocumentMoniker": "Fuel burning\\Views\\Home\\Raschet.cshtml",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Views\\Home\\Raschet.cshtml",
+              "RelativeToolTip": "Fuel burning\\Views\\Home\\Raschet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:19:29.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Choice.cshtml",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Views\\Home\\Choice.cshtml",
+              "RelativeDocumentMoniker": "Fuel burning\\Views\\Home\\Choice.cshtml",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Views\\Home\\Choice.cshtml",
+              "RelativeToolTip": "Fuel burning\\Views\\Home\\Choice.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:19:34.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fuel burning\\Views\\Home\\Index.cshtml",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fuel burning\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-17T08:19:35.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FuelBurningApi\\Controllers\\AccountController.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FuelBurningApi\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:37:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\appsettings.json",
+              "RelativeDocumentMoniker": "Fuel burning\\appsettings.json",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\appsettings.json",
+              "RelativeToolTip": "Fuel burning\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T07:53:22.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LiquidController.cs",
+              "DocumentMoniker": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Controllers\\LiquidController.cs",
+              "RelativeDocumentMoniker": "Fuel burning\\Controllers\\LiquidController.cs",
+              "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Controllers\\LiquidController.cs",
+              "RelativeToolTip": "Fuel burning\\Controllers\\LiquidController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwPIBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T08:28:54.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

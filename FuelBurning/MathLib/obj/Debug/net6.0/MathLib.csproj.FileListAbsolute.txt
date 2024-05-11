@@ -1,0 +1,84 @@
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\bin\Debug\net6.0\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\bin\Debug\net6.0\MathLib.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\MathLib.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+J:\учеба\РПО\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\Расчет процесса горения всех видов топлив\App\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+C:\Users\Вадим\Desktop\App\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+J:\диплом\project\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+J:\диплом\project\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+J:\диплом\project\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+J:\диплом\project\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+J:\диплом тест json\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+J:\диплом тест json\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+J:\диплом тест json\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll
+J:\диплом тест json\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.runtimeconfig.json
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
+J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.genruntimeconfig.cache

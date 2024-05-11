@@ -1,0 +1,312 @@
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.AssemblyReference.cache
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.AssemblyInfoInputs.cache
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.AssemblyInfo.cs
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\testhost.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\testhost.exe
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.engine.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.engine.api.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.engine.core.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\testcentric.engine.metadata.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.deps.json
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.runtimeconfig.json
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.pdb
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.framework.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\MathLib.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\MathLib.pdb
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.ResolveComReference.cache
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.CopyComplete
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\refint\TestProjectDemo.dll
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.pdb
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.genruntimeconfig.cache
+D:\РПО\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\ref\TestProjectDemo.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\testhost.exe
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\testhost.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.deps.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.runtimeconfig.json
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\TestProjectDemo.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\MathLib.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.AssemblyReference.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.ResolveComReference.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.AssemblyInfoInputs.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.AssemblyInfo.cs
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.CopyComplete
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\refint\TestProjectDemo.dll
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.pdb
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\TestProjectDemo.genruntimeconfig.cache
+C:\Users\Ilya.Pykhteev\Documents\GitHub\123901_PykhteevIlya\App\Fuel burning\TestProject2\obj\Debug\net6.0\ref\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\testhost.exe
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\testhost.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\nunit.engine.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\nunit.engine.api.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\nunit.engine.core.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\testcentric.engine.metadata.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\TestProjectDemo.deps.json
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\TestProjectDemo.runtimeconfig.json
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\TestProjectDemo.pdb
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\MathLib.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\bin\Debug\net6.0\MathLib.pdb
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.AssemblyReference.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.ResolveComReference.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.AssemblyInfoInputs.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.AssemblyInfo.cs
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.csproj.CopyComplete
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\refint\TestProjectDemo.dll
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.pdb
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\TestProjectDemo.genruntimeconfig.cache
+C:\Users\Grisha\Desktop\123901_PykhteevIlya\App\FuelBurning\TestProject2\obj\Debug\net6.0\ref\TestProjectDemo.dll

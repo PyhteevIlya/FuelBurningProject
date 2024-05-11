@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0aigQhUErYVz/EJ0Dphq4n2ZvlDajQ50LKJg2cYqd8E=",
+  "Source": "CalcMicroservice",
+  "BasePath": "_content/CalcMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

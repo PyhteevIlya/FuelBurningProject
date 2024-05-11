@@ -1,0 +1,286 @@
+[
+  {
+    "ContainingType": "WebApplication2.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Fuel_burning.Models.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication2.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Fuel_burning.Models.RegisterModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "Calc",
+    "RelativePath": "HomeController2/Calc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "DataInputAdd",
+    "RelativePath": "HomeController2/DataInputAdd",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "DataInputAdd",
+    "RelativePath": "HomeController2/DataInputAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataInputJson",
+        "Type": "Fuel_burning.Models.DataGasFuelModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "DataInputEdit",
+    "RelativePath": "HomeController2/DataInputEdit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "DataInputEdit",
+    "RelativePath": "HomeController2/DataInputEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DataInput",
+        "Type": "Fuel_burning.Models.DataGasFuelModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "Error",
+    "RelativePath": "HomeController2/Error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "Raschet",
+    "RelativePath": "HomeController2/Raschet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "Remove",
+    "RelativePath": "HomeController2/Remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.HomeController2",
+    "Method": "Report",
+    "RelativePath": "HomeController2/Report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "Calc",
+    "RelativePath": "LiquidController2/Calc",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "DataInputAdd",
+    "RelativePath": "LiquidController2/DataInputAdd",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "DataInputAdd",
+    "RelativePath": "LiquidController2/DataInputAdd",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataInputsLiquid",
+        "Type": "Fuel_burning.Models.DataLiquidFuelModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "DataInputEdit",
+    "RelativePath": "LiquidController2/DataInputEdit",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "DataInputEdit",
+    "RelativePath": "LiquidController2/DataInputEdit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DataInputsLiquid",
+        "Type": "Fuel_burning.Models.DataLiquidFuelModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "Error",
+    "RelativePath": "LiquidController2/Error",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "Raschet",
+    "RelativePath": "LiquidController2/Raschet",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "Remove",
+    "RelativePath": "LiquidController2/Remove",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FuelBurningApi.Controllers.LiquidController2",
+    "Method": "Report",
+    "RelativePath": "LiquidController2/Report",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

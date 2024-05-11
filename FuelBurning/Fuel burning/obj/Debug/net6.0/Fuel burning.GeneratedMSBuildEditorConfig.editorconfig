@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Fuel_burning
+build_property.RootNamespace = Fuel_burning
+build_property.ProjectDir = J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = J:\учеба\РПО\123901_PykhteevIlya\App\Fuel burning\Fuel burning
+build_property._RazorSourceGeneratorDebug = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcYWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/Choice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaG9pY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/DataInputAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhSW5wdXRBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/DataInputEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXRhSW5wdXRFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/Raschet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSYXNjaGV0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Home/Rezult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXp1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/DataInputAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXERhdGFJbnB1dEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/DataInputEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXERhdGFJbnB1dEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/DataInputLiquid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXERhdGFJbnB1dExpcXVpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/Raschet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXFJhc2NoZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/Report.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/Rezult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXFJlenVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Liquid/RezultLiquid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlxdWlkXFJlenVsdExpcXVpZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[J:/учеба/РПО/123901_PykhteevIlya/App/Fuel burning/Fuel burning/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ojmgk9p585

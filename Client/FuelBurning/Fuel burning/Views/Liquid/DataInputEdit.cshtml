@@ -1,0 +1,116 @@
+﻿@model Fuel_burning.Models.DataLiquidFuelModel
+<!DOCTYPE html>
+<html>
+<head>
+@*    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>*@
+</head>
+<body>
+    @using (Html.BeginForm("DataInputEdit", "Home", FormMethod.Post))
+    {
+       
+        <div class="container">
+            <h2>Исходные данные</h2>
+            <div class="table-responsive">
+                <div>
+                    <table>
+                        <tr>
+                            <td valign="top" width="210">
+                                @Html.TextArea("Name", (string)(Model.Name), htmlAttributes: new { type = "text", style = " width:200px; ", placeholder = "Введите название"})
+                            </td>
+                            <td>
+                                @Html.TextArea("Description", (string)(Model.Description), 5, 1, htmlAttributes: new { type = "text", style = " width:200px; height:30px", placeholder = "Введите описание"})
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Наименование показателя, ед. изм.</th>
+                            <th>Величина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Масса C,%</td>
+                            <td>@Html.TextBox("C", Model.LiquidFuelModel.C, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H,%</td>
+                            <td>@Html.TextBox("H", Model.LiquidFuelModel.H, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса S,%</td>
+                            <td>@Html.TextBox("S", Model.LiquidFuelModel.S, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса N,%</td>
+                            <td>@Html.TextBox("N", Model.LiquidFuelModel.N, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса O,%</td>
+                            <td>@Html.TextBox("O", Model.LiquidFuelModel.O, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание влаги в топливе, масс. Wp,%</td>
+                            <td>@Html.TextBox("Wp", Model.LiquidFuelModel.Wp, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Содержание золы в топливе, масс. Ap,%</td>
+                            <td>@Html.TextBox("Ap", Model.LiquidFuelModel.Ap, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Температура подогрева воздуха перед горением, °С</td>
+                            <td>@Html.TextBox("T_v", Model.LiquidFuelModel.T_v, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2S,%</td>
+                            <td>@Html.TextBox("T_t", Model.LiquidFuelModel.T_t, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса N2,%</td>
+                            <td>@Html.TextBox("alfaG", Model.LiquidFuelModel.alfaG, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса H2O,%</td>
+                            <td>@Html.TextBox("M_недожог", Model.LiquidFuelModel.M_недожог, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                        <tr>
+                            <td>Масса g,%</td>
+                            <td>@Html.TextBox("gg", Model.LiquidFuelModel.gg, htmlAttributes: new { type = "text", style = " width:100px; " })</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <p>
+        </p>
+        <div class="form-group" style="margin-left: auto; margin-top: 15px">
+            <button type="submit" style="font-size: 15px" class="btn btn-primary" asp-route-UserId="@Model.UserId">Подтвердить</button>
+        </div>
+
+    }
+
+    @*<a href="@Url.Action("Excel", "Home")">Скачать решение в Excel</a>*@
+</body>
+</html>
+
+
+<script>
+    $(document).ready(function () {
+
+        const a = (e) => {
+            var charCode = (e.which) ? e.which : event.keyCode
+
+            if (String.fromCharCode(charCode).match(/[^0-9\,]/g))
+
+                return false;
+        }
+        $('input:not([name = "Name"])').keypress(a);
+
+    });
+</script>

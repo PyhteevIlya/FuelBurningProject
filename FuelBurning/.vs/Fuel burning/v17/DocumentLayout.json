@@ -140,7 +140,7 @@
               "RelativeDocumentMoniker": "Fuel burning\\Models\\DataOutputModel.cs",
               "ToolTip": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\Models\\DataOutputModel.cs",
               "RelativeToolTip": "Fuel burning\\Models\\DataOutputModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswDcAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T11:09:15.13Z",
               "EditorCaption": ""
@@ -179,7 +179,8 @@
               "RelativeToolTip": "FuelBurningApi\\Controllers\\LiquidController2.cs",
               "ViewState": "AQIAABcAAAAAAAAAAADwvyMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:54:55.615Z"
+              "WhenOpened": "2024-04-16T07:54:55.615Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +192,8 @@
               "RelativeToolTip": "FuelBurningApi\\Controllers\\HomeController2.cs",
               "ViewState": "AQIAAFwAAAAAAAAAAAAuwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:53:33.68Z"
+              "WhenOpened": "2024-04-16T07:53:33.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -346,7 +348,8 @@
               "RelativeToolTip": "Fuel burning\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAN8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T08:27:07.528Z"
+              "WhenOpened": "2024-04-16T08:27:07.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -394,7 +397,8 @@
               "RelativeToolTip": "FuelBurningApi\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T08:37:22.627Z"
+              "WhenOpened": "2024-04-16T08:37:22.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

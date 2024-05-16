@@ -82,3 +82,18 @@ J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.d
 J:\диплом тест json\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.runtimeconfig.json
 J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
 J:\диплом тест json\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.genruntimeconfig.cache
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.deps.json
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.runtimeconfig.json
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.dll
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\bin\Debug\net6.0\MathLib.pdb
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.AssemblyReference.cache
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfoInputs.cache
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.AssemblyInfo.cs
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.csproj.CoreCompileInputs.cache
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.sourcelink.json
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.dll
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\refint\MathLib.dll
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.pdb
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\MathLib.genruntimeconfig.cache
+J:\c# vs\FuelBurningProject\FuelBurning\MathLib\obj\Debug\net6.0\ref\MathLib.dll

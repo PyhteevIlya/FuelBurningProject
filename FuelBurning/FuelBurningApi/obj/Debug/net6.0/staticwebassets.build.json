@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "c0gf1dOGaK6zuWLq6ML1c+POlcNbybsV7yCL9rc3xA8=",
+  "Hash": "AFHlHttpwMKlbyNodMgS+RG/G7XzatXueSbYLvV1dPs=",
   "Source": "FuelBurningApi",
   "BasePath": "_content/FuelBurningApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\FuelBurning.csproj",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\FuelBurning.csproj",
       "Version": 2,
       "Source": "FuelBurning",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "FuelBurning\\wwwroot",
       "Source": "FuelBurning",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FuelBurning.bundle.scp.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FuelBurning.bundle.scp.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "FuelBurning.bundle.scp.css",
       "AssetKind": "All",
@@ -45,13 +45,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FuelBurning.bundle.scp.css"
+      "OriginalItemSpec": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FuelBurning.bundle.scp.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\css\\site.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\css\\site.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -67,10 +67,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\favicon.ico",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\favicon.ico",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -86,10 +86,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\js\\site.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\js\\site.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -105,10 +105,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -124,10 +124,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -162,10 +162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -181,10 +181,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -200,10 +200,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -219,10 +219,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -257,10 +257,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -276,10 +276,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -295,10 +295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -314,10 +314,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -333,10 +333,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -352,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -371,10 +371,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -390,10 +390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -409,10 +409,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -428,10 +428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -447,10 +447,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -466,10 +466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -485,10 +485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -504,10 +504,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -523,10 +523,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -580,10 +580,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -599,10 +599,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -618,10 +618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -637,10 +637,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -656,10 +656,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -675,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -694,10 +694,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -713,10 +713,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -732,10 +732,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -751,10 +751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -770,10 +770,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -789,10 +789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -808,10 +808,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -827,10 +827,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -846,10 +846,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -865,10 +865,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -903,10 +903,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -922,10 +922,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -960,10 +960,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -979,10 +979,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -998,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1017,10 +1017,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1036,10 +1036,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1055,10 +1055,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1074,10 +1074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1093,10 +1093,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1112,10 +1112,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1131,10 +1131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1150,10 +1150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1169,10 +1169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FuelBurning",
       "SourceType": "Project",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\Fuel burning\\wwwroot\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\Fuel burning\\wwwroot\\",
       "BasePath": "_content/FuelBurning",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1188,10 +1188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "J:\\диплом тест json\\FuelBurning\\FuelBurningApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FuelBurningApi.styles.css",
+      "Identity": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FuelBurningApi.styles.css",
       "SourceId": "FuelBurningApi",
       "SourceType": "Computed",
-      "ContentRoot": "J:\\диплом тест json\\FuelBurning\\FuelBurningApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FuelBurningApi",
       "RelativePath": "FuelBurningApi.styles.css",
       "AssetKind": "All",
@@ -1204,7 +1204,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "J:\\диплом тест json\\FuelBurning\\FuelBurningApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FuelBurningApi.styles.css"
+      "OriginalItemSpec": "J:\\c# vs\\FuelBurningProject\\FuelBurning\\FuelBurningApi\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FuelBurningApi.styles.css"
     }
   ]
 }
